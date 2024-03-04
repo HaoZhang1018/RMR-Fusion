@@ -1,2 +1,2 @@
 # RMR-Fusion
-Code of A Robust Mutual-reinforcing Framework for 3D Multi-modal Medical Image Fusion based on Visual-semantic Consistency.
+The code of Visual-semantic Consistency: A Mutual-reinforcing 3D Multi-modal Image Fusion Framework for Robust Lesion Segmentation.
