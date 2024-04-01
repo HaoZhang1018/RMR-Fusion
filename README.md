@@ -1,4 +1,4 @@
-# RMR-Fusion_AAAI24
+# RMR-Fusion AAAI24
 The code of A Robust Mutual-reinforcing Framework for 3D Multi-modal Medical Image Fusion based on Visual-semantic Consistency.
 #### Recommended Environment:<br>
  - [ ] python = 3.8
