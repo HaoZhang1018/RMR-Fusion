@@ -1,5 +1,15 @@
 # RMR-Fusion AAAI24
 The code of A Robust Mutual-reinforcing Framework for 3D Multi-modal Medical Image Fusion based on Visual-semantic Consistency.
+@inproceedings{zhang2024robust,
+  title={A Robust Mutual-Reinforcing Framework for 3D Multi-Modal Medical Image Fusion Based on Visual-Semantic Consistency},
+  author={Zhang, Hao and Zuo, Xuhui and Zhou, Huabing and Lu, Tao and Ma, Jiayi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={7},
+  pages={7087--7095},
+  year={2024}
+}
+
 #### Recommended Environment:<br>
  - [ ] python = 3.8
  - [ ] torch = 1.12.1
